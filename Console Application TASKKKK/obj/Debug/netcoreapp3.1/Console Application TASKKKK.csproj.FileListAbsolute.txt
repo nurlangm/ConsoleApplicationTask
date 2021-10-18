@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Console Application TASKKKK\Console Application TASKKKK\obj\Debug\netcoreapp3.1\Console Application TASKKKK.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Console Application TASKKKK\Console Application TASKKKK\obj\Debug\netcoreapp3.1\Console Application TASKKKK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Console Application TASKKKK\Console Application TASKKKK\obj\Debug\netcoreapp3.1\Console Application TASKKKK.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Console Application TASKKKK\Console Application TASKKKK\obj\Debug\netcoreapp3.1\Console Application TASKKKK.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Console Application TASKKKK\Console Application TASKKKK\obj\Debug\netcoreapp3.1\Console Application TASKKKK.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Console Application TASKKKK\Console Application TASKKKK\bin\Debug\netcoreapp3.1\Console Application TASKKKK.exe
+C:\Users\ASUS\source\repos\Console Application TASKKKK\Console Application TASKKKK\bin\Debug\netcoreapp3.1\Console Application TASKKKK.deps.json
+C:\Users\ASUS\source\repos\Console Application TASKKKK\Console Application TASKKKK\bin\Debug\netcoreapp3.1\Console Application TASKKKK.runtimeconfig.json
+C:\Users\ASUS\source\repos\Console Application TASKKKK\Console Application TASKKKK\bin\Debug\netcoreapp3.1\Console Application TASKKKK.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Console Application TASKKKK\Console Application TASKKKK\bin\Debug\netcoreapp3.1\Console Application TASKKKK.dll
+C:\Users\ASUS\source\repos\Console Application TASKKKK\Console Application TASKKKK\bin\Debug\netcoreapp3.1\Console Application TASKKKK.pdb
+C:\Users\ASUS\source\repos\Console Application TASKKKK\Console Application TASKKKK\obj\Debug\netcoreapp3.1\Console Application TASKKKK.dll
+C:\Users\ASUS\source\repos\Console Application TASKKKK\Console Application TASKKKK\obj\Debug\netcoreapp3.1\Console Application TASKKKK.pdb
+C:\Users\ASUS\source\repos\Console Application TASKKKK\Console Application TASKKKK\obj\Debug\netcoreapp3.1\Console Application TASKKKK.genruntimeconfig.cache
